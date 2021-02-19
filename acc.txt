@@ -1,0 +1,4 @@
+javaproject
+inn: 92342937329487
+clientType: HOLDING
+isSanctioned: yes

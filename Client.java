@@ -1,0 +1,4 @@
+interface Client {
+
+    void print();
+}
